@@ -1,0 +1,9 @@
+[
+  {"id": 1, "name": "My first list", "taskList": [{"id": 1, "isDone": true, "priority": "LOW", "description": "First list task"}]},
+  {"id": 2, "name": "My second list", "taskList": [{"id": 2, "isDone": false, "priority": "HIGH", "description": "Second list task"}]},
+  {
+    "id": 3, "name": "My third list",
+    "taskList": [{"id": 3, "isDone": true, "priority": "MEDIUM", "description": "Third list task"},
+      {"id": 4, "isDone": true, "priority": "MEDIUM", "description": "Third list task"}]
+  }
+]
